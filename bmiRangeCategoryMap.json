@@ -1,0 +1,22 @@
+{
+    "18.5": {
+        "category": "underWeight",
+        "riskLevel": "malnutrition"
+    },
+    "24.9": {
+        "category": "normalWeight",
+        "riskLevel": "low"
+    },
+    "29.9": {
+        "category": "overWeight",
+        "riskLevel": "enhanced"
+    },
+    "34.9": {
+        "category": "moderatelyObese",
+        "riskLevel": "medium"
+    },
+    "39.9": {
+        "category": "severelyObese",
+        "riskLevel": "high"
+    }
+}

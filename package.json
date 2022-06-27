@@ -1,0 +1,17 @@
+{
+  "name": "code20220627-rajeshkumar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "populateBmiParameters.js",
+  "scripts": {
+    "start": "node populateBmiParameters.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "es": "^0.8.0",
+    "event-stream": "^4.0.1",
+    "JSONStream": "^1.3.5"
+  }
+}
